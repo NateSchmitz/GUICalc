@@ -29,7 +29,8 @@ public class calculator {
 	boolean periodCheck;
 
 	/**
-	 * Launch the application.
+	 * trying to test why it doesn't appear as changed.
+	 * Launches the application.
 	 */
 	public static void main(String[] args) {
 		
